@@ -1,0 +1,12 @@
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\bin\Debug\MidOne.exe.config
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\bin\Debug\MidOne.exe
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\bin\Debug\MidOne.pdb
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\bin\Debug\EntityFramework.dll
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\bin\Debug\EntityFramework.xml
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\obj\Debug\MidOne.csprojAssemblyReference.cache
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\obj\Debug\MidOne.csproj.CoreCompileInputs.cache
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\obj\Debug\MidOne.csproj.CopyComplete
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\obj\Debug\MidOne.exe
+C:\Users\ladob\Desktop\dotnet\MidOne\MidOne\obj\Debug\MidOne.pdb
